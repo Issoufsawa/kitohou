@@ -1,0 +1,144 @@
+body{
+    padding: 25px;
+}
+.LOGO{
+    width: 150px;
+    position: relative;
+    left: -20px;
+}
+.Addresse{
+    position: relative;
+    top: -20px;
+
+}
+.title,.titre{
+    background: #385776;
+    text-align: center;
+}
+.title{
+    padding: 15px;
+    font-weight: 600;
+   font-size: 36px;
+
+    
+
+}
+.titre{
+   position: relative;
+   padding: 10px;
+   font-size: 26px;
+   border: 1px solid #385776;
+}
+.nom{
+    margin-left: -12px;
+    margin-right: -12px;
+    padding: 5px;
+    background-color: #ebebeb;
+   font-size: 18px;
+   
+
+    
+}
+.prenom{
+   font-size: 30px;
+   
+
+}
+.Travailleur{
+    padding: 5px;
+}
+.Nbr {
+    position: relative;
+    top:20px;
+}
+.conge{
+    position: relative;
+    top:50px;
+}
+.anciennete{
+    position: relative;
+    top:25px;
+}
+.Label{
+    position: relative;
+    top:25px;
+}
+.Label1{
+    position: relative;
+    top:70px;
+}
+.Label0{
+    position: relative;
+    top:50px;
+}
+.label{
+    position: relative;
+    left: 2%;
+}
+.horaire{
+    position: relative;
+    margin-top: 30%;
+}
+.thead{
+   font-size: 16px;
+   line-height:2.5;
+
+}
+ .impotsalaires{
+     position: relative;
+     top: 10px;
+ }
+/* end th nombre style */
+/*table empty style */
+.emptyline>.tdcode{
+  height: 15px;
+   
+    
+}
+.tbody>tr{
+   border-top: 0;
+   border-bottom: 0;
+
+}
+.tdcode,.tdnombre,.tdbase,.tdmontsal,.tdtauxpat,.tdmontpat{
+text-align: center;
+}
+.tdlibelle{
+    padding-left: 10px;
+}
+.heure{
+   font-weight: bold;
+    
+}
+.hee > .tdlibelle{
+    padding-left: 45px;
+}
+.sptable{
+    background: #385776;
+    height: 35px;
+}
+.btable{
+    line-height: 2;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.border{
+    border-left: 1px solid black;
+}
+.spleft{
+    text-align: left;
+    width: 150px;
+
+}
+.cotisation{ 
+    width: 150px;
+}
+.methode{
+    display: flex;
+
+}
+.lcol-m-6{
+    position: relative;
+    left: 30%;
+}
